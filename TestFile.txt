@@ -1,3 +1,4 @@
 The file text.
 Second modification with signingkey set.
 The third modification, with public key updated in GitHub.
+Fourth with git-credentials and gitconfig user names the same.
